@@ -3,7 +3,7 @@
 ### Overview
 The Maze Runner is an exploration game where the player is set in first-person perspective mode and navigates the 3D maze while encountering monsters, 2D mini-games and the chance to collect power-ups. The player’s choices determine if they can progress through the levels and ultimately escape the maze
 
-This project is created by a team of 4 Drexel University students for Computing and Informatics Design I, II courses.
+This project is created by a team of 4 Drexel University students for Computing and Informatics Design II, III courses.
 
 ### Features
 - #### 3D First-Person Gameplay 
@@ -24,15 +24,12 @@ This project is created by a team of 4 Drexel University students for Computing 
 - #### Full Audio Integration
   - Background music and sound effects based on player input and event triggers 
 
-### Maisha’s Contributions
-- Served as the Model Designer and Product Owner for all sprint reviews 
-- Assisted in the creation of the base model of the 3D maze
-- Created and designed the environments of all levels 1-5, applying PBR materials for textures, applying .exr files for HDRI skies, adding and refining lighting, shadows, fog, ambience, etc
-- Implemented all sound effects and music using .wav audio files
-- Developed all aspects of the memory card mini-game, including working with 2D sprite assets, creating and implementing animations, and scripting all gameplay logic
-- Assisted in the code development for linking maze pathways to trigger the mini-games or monster
-- Wrote code for player spawn and level progress, implementing this among several script files
-- Assisted in the implementation of player and camera controls, including head-bob movement
+### Janiyah's Contributions
+- Created the main menu and made the buttons functional, including Start Game, About Us, and System Manual.
+- Created the Tic-Tac-Toe mini-game and integrated it into the overall game.
+- Assisted with scaling the player character to fit properly within the game environment.
+- Helped with testing, troubleshooting, and debugging features throughout development.
+- Collaborated with my teammates using Godot and GitLab to integrate and manage the project.
 ### Instructions on how to run the game
 1. Install Godot Game Engine (latest version is Godot 4) 
 2. Clone or download this repository
